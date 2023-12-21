@@ -1,4 +1,4 @@
 import os
 print("hello")
-os.chdir("/tmp/nas")
+os.chdir('/tmp/')
 print(os.getcwd())
